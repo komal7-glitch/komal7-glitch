@@ -16,6 +16,6 @@ I am a data science professional with extensive experience in Data Science, Mach
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https:www.linkedin.com/in/komal-yadav-054b311b6) 
-[![Email](https://img.shields.io/badge/Email-girish119628@gmail.com-orange?style=flat&logo=gmail)](mailto:ky4207479@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ky4207479@gmail.com-orange?style=flat&logo=gmail)](mailto:ky4207479@gmail.com)
 
 ---
