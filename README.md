@@ -19,3 +19,17 @@ I am a data science professional with extensive experience in Data Science, Mach
 [![Email](https://img.shields.io/badge/Email-ky4207479@gmail.com-orange?style=flat&logo=gmail)](mailto:ky4207479@gmail.com)
 
 ---
+
+### 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Business%20Statistics-808080?style=for-the-badge&logo=chart-bar&logoColor=white" />
+</p>
+
+---
+
+Thanks for visiting! Let’s connect and explore data-driven solutions together.
