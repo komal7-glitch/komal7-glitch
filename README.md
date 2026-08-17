@@ -28,6 +28,7 @@ I am a data science professional with extensive experience in Data Science, Mach
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/-Business%20Statistics-808080?style=for-the-badge&logo=chart-bar&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GenerativeAI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
